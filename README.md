@@ -9,4 +9,4 @@ Conditions: Resting, Rhythmic, Arrhythmic and sleep stages.
 
 Full information of the data in the README file inside each folder.
 
-Comtact: david.apablaza@uaem.edu.mx
+Contact: david.apablaza@uaem.edu.mx
